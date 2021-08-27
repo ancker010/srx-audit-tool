@@ -1,0 +1,3 @@
+pandas
+netmiko
+xlsxwriter
